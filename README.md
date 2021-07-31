@@ -3,11 +3,11 @@ Data cleaning is the process of fixing or removing incorrect, corrupted, incorre
 
 # Character Encodings
 
-#Scaling  and Normalization
+# Scaling  and Normalization
 
 # Handling Missing Values
 
 # Parsing Dates
 
-#Inconsisten Data Entry
+# Inconsisten Data Entry
 
